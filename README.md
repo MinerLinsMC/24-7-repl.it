@@ -1,18 +1,13 @@
-[![Discord](https://img.shields.io/discord/728608005511446619.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/6ynnWDT)
 <div align=center>
-<h1>Time Management</h1>
-<b>Time Management</b> is our official bot built and designed to assist with time (timers, reminders, calculating, etc). Please review the <a href="https://github.com/MinerLinsMC/TimerBotSupport/blob/master/LICENSE" target="_blank">license</a> before modifying or reviewing the code.
+<h1>Host 24/7 for free!</h1>
+I decided to make this Github to educate those who still don't know how to host for free (24/7) on REPL. I hope by making this it ensures no one has any issues, and that you to can host for free!
 </div>
 
-# Additional Information
-* Written in **`discord.py`**
-* Maintained by **`OrientedCub & AnticcX`**
-* Bot invite **[here](https://discord.com/api/oauth2/authorize?client_id=694103533317914684&permissions=0&scope=bot)**
-* Support Server **[here](https://discord.gg/VhpMuGK)**
+# What it offers
+* Must be coded in **`discord.py`**
+* All automatic hosting
+* Almost no downtime
+* Absolutely free
 
-# Features
-
-Commands | Description
------------- | -------------
-help | Displays information about the bot
-purge | Purges up to 10,000 messages!
+# How easy it it?
+It can be setup in less than 2 minutes on any bot (assuming you're hosting on repl). This doesn't just work on repl, however I will only be providing support for this kind of method. If you're having trouble feel free to join my support-server (here)[https://discord.gg/6ynnWDT].
